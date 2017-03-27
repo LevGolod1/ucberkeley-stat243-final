@@ -1,5 +1,7 @@
 # ucberkeley-stat243-final  
-Final project for Stat 243 at University of California, Berkeley  
+Final project for Stat 243 - Statistical Computing  
+University of California, Berkeley    
+Fall 2016  
 
 Multiple Factor Analysis
 
