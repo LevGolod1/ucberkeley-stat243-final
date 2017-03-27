@@ -1,6 +1,9 @@
 # ucberkeley-stat243-final  
 Final project for Stat 243 at University of California, Berkeley  
 
+Multiple Factor Analysis
+
+
 Featuring:  
 the terrific Taehee Jung  
 the tenacious Temi N Lal  
